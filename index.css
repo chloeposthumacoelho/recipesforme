@@ -50,7 +50,7 @@ nav.left-menu {
 .links-icons a:hover,
 .aside-links a:hover,
 .left-menu a:hover  {
-    color: #a8bff0;
+    color: #f8934d;
 }
 
 .left-menu a {
@@ -63,11 +63,11 @@ nav.left-menu {
 }
 
 .main-title h1 {
-    font-family: 'Kaushan Script', cursive;
+    font-family: 'Playfair Display', cursive;
     text-align: center;
     letter-spacing: 2px;
     font-size: 3.5em;
-    color: #333e55;
+    color: #d7bcd5;
     margin: 30px 0 0 0;
 }
 
